@@ -13,10 +13,8 @@ Welcome to the Tic Tac Toe Flutter App! This is a simple and fun mobile game tha
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="screen%20shots/1.png" width="300">
-    <img src="screen%20shots/2.png" width="300">
-    <img src="screen%20shots/3.png" width="300">
-    <img src="screenShots/4.png" width="300">
+    <img src="screen%20shots/1.png" width="500">
+    <img src="screen%20shots/2.png" width="500">
 </div>
 
 
