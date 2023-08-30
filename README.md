@@ -12,8 +12,8 @@ Welcome to the Tic Tac Toe Flutter App! This is a simple and fun mobile game tha
 
 ## Screenshots
 
-![Screenshot 1](screen%20shots/1.png){:height="300px" width="300px"}
-![Screenshot 2](screen%20shots/2.png){:height="300px" width="300px"}
+![Screenshot 1](screen%20shots/1.png){:width="300px"}
+![Screenshot 2](screen%20shots/2.png){:width="300px"}
 
 ## Installation
 
